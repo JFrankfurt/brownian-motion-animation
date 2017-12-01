@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+}
+body {
+    display: flex;
+    flex-direction: row;
+}
+#pt {
+    height: 100vh; /*4 screens high.*/
+    width: 100vw;
+}
+
